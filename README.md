@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=On+a+determined+journey+to+master+the+art+of+being+a+true+full-stack+engineer.)](https://git.io/typing-svg)
-- 👋 Hi, I’m @LeeWio
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)- 👋 Hi, I’m @LeeWio
 - 👀 I’m interested in program
 - 🌱 I’m currently learning swift
 - 💞️ I’m looking to collaborate on Web
